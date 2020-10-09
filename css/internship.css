@@ -15,11 +15,11 @@ body {
     line-height: 1.2;
     display: inline-block;
     position:relative;
-    top:65%
+    top:65%;
     /*vertical-align: middle;*/
 }
 .intern-main-head center {
-    top:-20%
+    margin-top:
     /*vertical-align: middle;*/
 }
 @media (max-width: 768px) {
@@ -40,6 +40,26 @@ body {
     /*vertical-align: middle;*/
     }
 }
+@media (max-width: 400px) {
+    .intern-main-head {
+        font-size: 30px;
+        height: 200px;
+        font-size: 35px;
+    }
+    .intern-main-head p {
+    line-height: 1.2;
+    display: inline-block;
+    position:relative;
+    top:50%
+    /*vertical-align: middle;*/
+    }
+    .intern-main-head center {
+    top:20%
+    /*vertical-align: middle;*/
+    }
+}
+
+
 .intern-headings {
     font-size: 25px;
     font-weight: bolder;
