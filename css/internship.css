@@ -13,9 +13,9 @@ body {
     line-height: 300px;
 }
 .intern-main-head p {
-    line-height: 0.6;
+    line-height: 1.2;
     display: inline-block;
-    vertical-align: middle;
+    /*vertical-align: middle;*/
 }
 @media (max-width: 768px) {
     .intern-main-head {
