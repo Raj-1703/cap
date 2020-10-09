@@ -18,7 +18,7 @@ body {
     top:50%
     /*vertical-align: middle;*/
 }
-.intern-main-head button {
+.intern-main-head center {
     top:-20%
     /*vertical-align: middle;*/
 }
@@ -35,7 +35,7 @@ body {
     top:20%
     /*vertical-align: middle;*/
     }
-    .intern-main-head button {
+    .intern-main-head center {
     top:-20%
     /*vertical-align: middle;*/
     }
