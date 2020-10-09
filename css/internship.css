@@ -18,6 +18,10 @@ body {
     top:40%
     /*vertical-align: middle;*/
 }
+.intern-main-head button {
+    top:-20%
+    /*vertical-align: middle;*/
+}
 @media (max-width: 768px) {
     .intern-main-head {
         line-height: 200px;
@@ -31,8 +35,11 @@ body {
     position:relative;
     top:20%
     /*vertical-align: middle;*/
-}
-    
+    }
+    .intern-main-head button {
+    top:-20%
+    /*vertical-align: middle;*/
+    }
 }
 .intern-headings {
     font-size: 25px;
