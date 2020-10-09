@@ -10,19 +10,29 @@ body {
     text-align: center;
     font-size: 40px;
     font-weight: bold;
-    line-height: 10px;
 }
 .intern-main-head p {
     line-height: 1.2;
     display: inline-block;
+    position:relative;
+    top:40%
     /*vertical-align: middle;*/
 }
 @media (max-width: 768px) {
     .intern-main-head {
         line-height: 200px;
+        font-size: 30px;
         height: 200px;
         font-size: 35px;
     }
+    .intern-main-head p {
+    line-height: 1.2;
+    display: inline-block;
+    position:relative;
+    top:20%
+    /*vertical-align: middle;*/
+}
+    
 }
 .intern-headings {
     font-size: 25px;
