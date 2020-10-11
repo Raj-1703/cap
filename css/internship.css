@@ -297,6 +297,10 @@ body {
     width: 100%;
     margin: 10px 0;
 }
+
+.member-card center{
+    height : 100%;
+}
 .member-card img {
     width: 60% !important;
     border-radius: 50%;
