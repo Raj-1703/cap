@@ -298,8 +298,8 @@ body {
     margin: 10px 0;
 }
 
-.member-card center{
-    height : 100%;
+.member-card {
+    min-height : 20vh;
 }
 .member-card img {
     width: 60% !important;
