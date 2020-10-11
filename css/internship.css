@@ -11,6 +11,9 @@ body {
     font-size: 40px;
     font-weight: bold;
 }
+.committee-member-strip {
+  display: flex; /* equal height of the children */
+}
 .intern-main-head p {
     line-height: 1.2;
     display: inline-block;
